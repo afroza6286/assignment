@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1519574037963.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "4B3147CB",
+    "lastKnownWriteTime" : 1519580744,
+    "last_content_update" : 1519580744069,
+    "path" : "~/Documents/developer/emirates/predictionmodel/model.R",
+    "project_path" : "model.R",
+    "properties" : {
+        "cursorPosition" : "21,0",
+        "scrollLine" : "11",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

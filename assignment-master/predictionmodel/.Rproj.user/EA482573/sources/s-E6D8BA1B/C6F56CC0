@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1519579127554.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "C6F56CC0",
+    "lastKnownWriteTime" : 4301839312,
+    "last_content_update" : 1519579127554,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "id" : "8dfe84c48b2d4b51a64a650985abf50b",
+        "name" : "delay",
+        "title" : "delay"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "object_explorer"
+}
